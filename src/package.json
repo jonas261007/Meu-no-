@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "vite": "^5.4.1"
+  },
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
